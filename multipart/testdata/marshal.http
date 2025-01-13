@@ -1,0 +1,22 @@
+--cfa860dee4b56016251c7f1753911673d2a59010005b18e30eb5f1a638b2
+Content-Disposition: form-data; name="name"
+
+NAME_13
+--cfa860dee4b56016251c7f1753911673d2a59010005b18e30eb5f1a638b2
+Content-Disposition: form-data; name="country[]"
+
+us
+--cfa860dee4b56016251c7f1753911673d2a59010005b18e30eb5f1a638b2
+Content-Disposition: form-data; name="country[]"
+
+ca
+--cfa860dee4b56016251c7f1753911673d2a59010005b18e30eb5f1a638b2
+Content-Disposition: form-data; name="country[]"
+
+ad
+--cfa860dee4b56016251c7f1753911673d2a59010005b18e30eb5f1a638b2
+Content-Disposition: form-data; name="uploadFile"; filename="tmp.json"
+Content-Type: application/json
+
+{"id":"ID_123","count":123,"metrics":[1.3,1.4,1.6]}
+--cfa860dee4b56016251c7f1753911673d2a59010005b18e30eb5f1a638b2--
